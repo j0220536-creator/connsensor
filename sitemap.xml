@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首页 -->
+  <url>
+    <loc>https://connsensor.com/index.html</loc>
+  </url>
+  <!-- 产品页 -->
+  <url>
+    <loc>https://connsensor.com/products.html</loc>
+  </url>
+  <!-- 博客页 -->
+  <url>
+    <loc>https://connsensor.com/blog.html</loc>
+  </url>
+  <!-- 联系页 -->
+  <url>
+    <loc>https://connsensor.com/contact.html</loc>
+  </url>
+</urlset>
