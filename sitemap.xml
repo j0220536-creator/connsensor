@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首页 -->
+  <url>
+    <loc>https://connsensor.com/index.html</loc>
+    <priority>1.0</priority> <!-- 优先级最高 -->
+    <changefreq>weekly</changefreq> <!-- 每周更新 -->
+  </url>
+  <!-- 产品页 -->
+  <url>
+    <loc>https://connsensor.com/products.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <!-- 博客页 -->
+  <url>
+    <loc>https://connsensor.com/blog.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <!-- 联系页 -->
+  <url>
+    <loc>https://connsensor.com/contact.html</loc>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+</urlset>
